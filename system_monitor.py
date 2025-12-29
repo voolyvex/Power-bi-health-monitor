@@ -50,7 +50,7 @@ def main():
     print("Press Ctrl+C to stop.")
     
     try:
-        True:
+        while True:
             metrics = get_system_metrics()
             push_to_power_bi(metrics)
             time.sleep(5)  # Collect data every 5 seconds

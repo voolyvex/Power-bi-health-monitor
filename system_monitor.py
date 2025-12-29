@@ -13,6 +13,7 @@ PUSH_URL = "YOUR_POWER_BI_PUSH_URL_HERE"
 def get_system_metrics():
     """
     Captures local system metrics using psutil.
+    Returns a dictionary with Timestamp, CPU_Usage, RAM_Usage, and Disk_Usage.
     """
     metrics = {
         "Timestamp": datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S.%fZ'),

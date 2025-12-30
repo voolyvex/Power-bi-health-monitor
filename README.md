@@ -34,4 +34,4 @@ Python script that captures system metrics (CPU, RAM, Disk) and streams them to 
 
 ## Example Dashboard Visualization
 
-![Power BI Dashboard Example](example_visuals.png)
+<img src="example_visuals.png" alt="Power BI Dashboard Example" width="800">

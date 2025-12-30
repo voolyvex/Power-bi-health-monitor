@@ -31,3 +31,7 @@ Python script that captures system metrics (CPU, RAM, Disk) and streams them to 
 - REST API integration with Power BI
 - Real-time dashboard updates (5-second intervals)
 - Scalable architecture for enterprise deployment
+
+## Example Dashboard Visualization
+
+![Power BI Dashboard Example](example_visuals.png)
